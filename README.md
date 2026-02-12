@@ -82,9 +82,9 @@ aws-eks-tf/
 
 ---
 
-🔐 Remote State Management
+## 🔐 Remote State Management
 
-## Terraform state is:
+**Terraform state is:**
 
 - 🪣 Stored securely in an AWS S3 bucket
 
