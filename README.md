@@ -146,7 +146,9 @@ Runs the cluster in your AWS account
 
 Once completed, your EKS cluster will be live and accessible via **kubectl**.
 
-🔍 Verify the Cluster
+---
+
+## 🔍 Verify the Cluster
 
 After deployment:
 
